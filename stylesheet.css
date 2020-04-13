@@ -1,6 +1,6 @@
 body{
-	    margin-top: 0 !important;
-    padding-top: 0 !important;
+	    margin: 0 !important;
+    padding: 0 !important;
     min-height: 830px;
     max-height: 1472px;
     position: relative;
@@ -10,6 +10,7 @@ body{
     background: #fff;
     font: 12px/18px "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
     color: #333;
+    white-space: nowrap;
 }
 
 .navbar{
@@ -341,4 +342,104 @@ display: inline-block;
 .l_li{
 	margin-right: -0.3%;
     width: 25.3%;
+}
+
+.footer{
+	position: absolute;
+    z-index: 1;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    min-width: 980px;
+    width: 100%;
+    height: 90px;
+    color: rgb(110, 110, 110);
+    font-size: 0.8334em;
+    line-height: 1.2;
+    text-align: center;
+    zoom: 1;
+}
+
+.footer_div{
+	width: 980px;
+    margin: 0px auto;
+    padding: 1em 0px 2.6em;
+}
+
+.footer_div_p{
+	float: left;
+    clear: both;
+    width: 49%;
+    padding: 1.5em 0px 0px 0px;
+    text-align: left;
+   
+}
+
+.footer_p{
+   display: inline;
+    margin: 0px;
+}
+
+.footer_div_ul{
+	float: right;
+    width: 51%;
+    padding: 1.5em 0px 0px 0px;
+    text-align: right;
+    
+}
+
+.footer_ul{
+	display: inline;
+	margin: 0px;
+	zoom:1;
+}
+
+.footer_div_li_first{
+margin: 0px;
+    padding: 0px;
+    border-left: none;
+    display: inline-block;
+    float: none;
+}
+
+.footer_div_li{
+  display: inline-block;
+    float: none;
+    padding:0px 0px 0px 0.6em;
+    border-left: 1px solid rgb(204, 204, 204);
+    margin: 0px 0px 0px 0.6em;
+}
+
+.flag{
+position: relative;
+    z-index: 1;
+    width: 16px;
+    height: 12px;
+    zoom: 1;
+}
+
+.footer_div_li_a{
+	display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    /*border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;*/
+}
+
+.footer_img{
+	position: absolute;
+    z-index: 1;
+    top: -2px;
+    left: 7px;
+}
+
+.footer_last_div{
+	float: left;
+    clear: both;
+    width: 49%;
+    padding-top: 1.5em;
+    text-align: left;
 }
