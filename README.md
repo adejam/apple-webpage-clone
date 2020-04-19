@@ -44,9 +44,7 @@ copy the path to [index.html](https://adejam.github.io/apple-webpage-clone/index
 
 - CSS
 
-- CSS Flexbox
-
-- CSS Media Quary
+   - CSS Flexbox
 
 - Linter
 
