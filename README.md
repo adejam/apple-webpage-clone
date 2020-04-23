@@ -37,7 +37,7 @@ npx stylelint *.css --fix
 ```
 
 copy the path to [index.html](https://adejam.github.io/apple-webpage-clone/index.html) and paste it in the web browser to see the project
- 
+
 ## Technology Used
 
 - HTML
@@ -46,9 +46,9 @@ copy the path to [index.html](https://adejam.github.io/apple-webpage-clone/index
 
    - CSS Flexbox
 
-- Linter
+- [stylint](https://stylelint.io/)
 
-- NPM
+- [NPM](https://www.npmjs.com/)
 
 
 ## Assignment Link
@@ -77,6 +77,12 @@ Give a :star2: if you like this project!
 
 ## Acknowledgments
 - [@bolah2009](http://github.com/bolah2009)
+
+- [The Odin Project](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients?ref=lnav)
+
+- [Apple page](https://web.archive.org/web/20140301004610/http://www.apple.com/)
+
+- [W3c](https://www.w3.org/)
 
 ## :memo: License
 
